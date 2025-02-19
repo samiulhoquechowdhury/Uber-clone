@@ -15,5 +15,3 @@ app.get("/ping", (req, res) => {
 });
 
 module.exports = app;
-
-i0gCdJVfLQ1VwByu;
